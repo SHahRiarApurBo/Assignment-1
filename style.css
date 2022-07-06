@@ -260,3 +260,19 @@ body {
     color: white;
 
 }
+
+#gllry {
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+}
+
+#photo {
+    width: 250px;
+    height: 250px;
+    padding: 28px;
+}
+
+.pto {
+    margin-left: 170px;
+    margin-top: 20px;
+}
