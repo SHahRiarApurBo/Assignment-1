@@ -153,6 +153,8 @@ body {
     margin-left: 30px;
     background: #edf5f6;
     border-radius: 3px;
+    border-bottom: 2px solid #444;
+    border-left: 2px solid #444;
 }
 
 .son i {
